@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c7ad3ed-e4a1-43be-b89a-00b3ff34e61e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/config/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/endpoint/BaseEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/BaseEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/endpoint/PersonEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/endpoint/PersonValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/endpoint/error/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/error/Error.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hendisantika/springbootrestswaggerexample/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hendisantika/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplicationTests.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/BaseEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/repository/PersonRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" selection-start-line="4" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/service/PersonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/error/Error.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-rest-swagger-example.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>swagger</find>
+      <find>entityma</find>
+      <find>read</find>
+      <find>hendisantika</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>yash</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\My_Projects\Rest_Spring+Boot_Swagger\spring-boot-rest-swagger</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/WebConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonEndpoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/BaseEndpoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/repository/PersonRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/error/Error.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplicationTests.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-rest-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-rest-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootrestswaggerexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="spring-boot-rest-swagger-example" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring-boot-rest-swagger-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574033506417" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootRestSwaggerExampleApplication">
+    <configuration name="SpringBootRestSwaggerExampleApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-swagger-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbootrestswaggerexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springbootrestswaggerexample" />
+      <option name="MAIN_CLASS_NAME" value="com.springbootrestswaggerexample.SpringBootRestSwaggerExampleApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-swagger-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springbootrestswaggerexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springbootrestswaggerexample" />
+      <option name="MAIN_CLASS_NAME" value="com.springbootrestswaggerexample.SpringBootRestSwaggerExampleApplicationTests" />
+      <option name="METHOD_NAME" value="whenFindByName_thenReturnPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRestSwaggerExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-rest-swagger-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbootrestswaggerexample.SpringBootRestSwaggerExampleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringBootRestSwaggerExampleApplicationTests" />
+      <item itemvalue="JUnit.SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" />
+      <item itemvalue="Spring Boot.SpringBootRestSwaggerExampleApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBootRestSwaggerExampleApplicationTests" />
+        <item itemvalue="JUnit.SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7ad3ed-e4a1-43be-b89a-00b3ff34e61e" name="Default Changelist" comment="" />
+      <created>1574021405276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574021405276</updated>
+      <workItem from="1574021409416" duration="7224000" />
+      <workItem from="1574030145858" duration="2147000" />
+      <workItem from="1574032916171" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 18m 57s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 21m 02s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests - 2019.11.17 at 23h 22m 05s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests - 2019.11.17 at 23h 23m 22s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 24m 20s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 25m 09s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 28m 43s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests_whenFindByName_thenReturnPerson - 2019.11.17 at 23h 29m 30s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests.whenFindByName_thenReturnPerson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests - 2019.11.17 at 23h 30m 10s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBootRestSwaggerExampleApplicationTests - 2019.11.17 at 23h 36m 31s.xml">
+      <configuration name="SpringBootRestSwaggerExampleApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9985000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4674221" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.4674221" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="68" lean-forward="true" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/config/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.23.RELEASE/spring-data-jpa-1.11.23.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/BaseEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/PersonValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/repository/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="4" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/endpoint/error/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springbootrestswaggerexample/SpringBootRestSwaggerExampleApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-rest-swagger-example.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

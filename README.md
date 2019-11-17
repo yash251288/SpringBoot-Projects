@@ -14,6 +14,4 @@
 |GET|/v1/persons| 	get N persons with an offset|
 |PUT|/v1/person| 	add / update person|
 
-Screenshot
 
-![List APIs](img/list.png "List API")
